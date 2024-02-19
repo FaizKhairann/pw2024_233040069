@@ -14,6 +14,6 @@ $mata_kuliah = 'Pemrograman Web'
     <?php echo "Hello, $nama!"; ?>
     </h1>
     <p><?php echo $mata_kuliah; ?></p>
-    <p><?php echo "Halo nama saya, $nama, saya sedang kuliah <em>\"$mata_kuliah.\"</em>" ?></p>
+    <p><?php echo "Halo nama saya, $nama, saya sedang kuliahh <em>\"$mata_kuliah.\"</em>" ?></p>
 </body>
 </html>
