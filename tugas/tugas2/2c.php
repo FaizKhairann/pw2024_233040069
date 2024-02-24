@@ -14,7 +14,7 @@
     .kotak {
       width: 30px;
       height: 30px;
-      background-color: salmon;
+      background-color: gray;
       border: 1px solid #333;
       display: inline-block;
       line-height: 30px;
